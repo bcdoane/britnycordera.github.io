@@ -1,5 +1,5 @@
 ---
-title: "Poetry"
+title: "Online (Selected):"
 ---
 
 Online (Selected):
@@ -14,7 +14,11 @@ Silver Birch Press: Mythic Poetry Series - “Urania the Stargazer”
 
 Auburn Avenue - “Revision of Genesis” & “Ju-Ju Doll”
 
-Print:
+
+---
+title: "Print:"
+---
+
 
 Light: A Journal of Photography and Poetry - “Dreams of Neglect Involve Hummingbirds”
 
