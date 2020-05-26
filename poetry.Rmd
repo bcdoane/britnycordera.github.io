@@ -1,6 +1,8 @@
 ---
-title: "Online (Selected):"
+title: "Online & Print (Selected):"
 ---
+
+
 
 Online (Selected):
 
@@ -13,12 +15,6 @@ Canopic Jar Suite: Generation - “Ode to the Desert”
 Silver Birch Press: Mythic Poetry Series - “Urania the Stargazer”
 
 Auburn Avenue - “Revision of Genesis” & “Ju-Ju Doll”
-
-
----
-title: "Print:"
----
-
 
 Light: A Journal of Photography and Poetry - “Dreams of Neglect Involve Hummingbirds”
 
