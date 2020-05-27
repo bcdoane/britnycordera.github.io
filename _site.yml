@@ -9,13 +9,15 @@ navbar:
       href: about.html
     - text: "Publications"
       href: publications.html
-    - text: "Contact"
-      href: contact.html
     - text: "Blog"
       href: blog.html
+    - text: "Street Poetry"
+      href: streetpoetry.html
+    - text: "Contact"
+      href: contact.html
     - icon: "fa-twitter" 
       href: "https://twitter.com/bcdpoet"
     - icon: "fa-facebook"
-      href: "https://www.facebook.com/britny.cordera.doane"
+      href: "https://www.facebook.com/britny.cordera.doane" 
     - icon: "fa-instagram"
       href: "https://www.instagram.com/britny.cordera/"

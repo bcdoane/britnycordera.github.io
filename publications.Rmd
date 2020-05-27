@@ -3,7 +3,8 @@ title: "Online & Print (Selected):"
 ---
 <BR CLEAR= "left">
 
-concis -  “Transformation” 
+<a href="https://concis.io/issues/summer-2017/britny-cordera-transformation/" target="_blank"> concis -  “Transformation”
+</a>
 
 Peacock Journal - four poems 
 
@@ -11,7 +12,8 @@ Canopic Jar Suite: Generation - “Ode to the Desert”
 
 Silver Birch Press: Mythic Poetry Series - “Urania the Stargazer”
 
-Auburn Avenue - “Revision of Genesis” & “Ju-Ju Doll”
+<a href="https://www.theauburnavenue.com/two-poems-by-britny-cordera" target="_blank"> Auburn Avenue - “Revision of Genesis” & “Ju-Ju Doll”
+</a>
 
 Light: A Journal of Photography and Poetry - “Dreams of Neglect Involve Hummingbirds”
 
@@ -22,5 +24,8 @@ Prairie Margins - “Ivy Barer”
 Pinyon Review - “The Sensualist”
 
 Pinyon Review - “The Reborn”
+
+<a href=https://issuu.com/xavierreviewpress/docs/xr391-2-final02-text target="_blank"> Xavier Review Vol 39 - "Upon Realizing There Are Ghosts In The Ceiling"
+</a>
 
 </BR>
