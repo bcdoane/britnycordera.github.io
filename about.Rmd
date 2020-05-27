@@ -1,10 +1,14 @@
 ---
 title: "About"
 ---
+<BR CLEAR= "left">
+
 Cordera is a two-year Pushcart Prize-nominated poet. She is a proud black writer and creole poet, descending from African, Indigenous, and French/Spanish ancestors. Her poetry can be found or is forthcoming in Xavier Review, and Auburn Avenue. Currently, she is an MFA candidate at Southern Illinois University in Carbondale and Poetry Editor at The New Southern Fugitives.
 
 <center>
+<BR CLEAR= "left">
 
 <img src="images/IMG_3265.jpeg" style="width:50%; border:8px solid; margin-center: 10px" align="center">
 
 </center>
+</BR>

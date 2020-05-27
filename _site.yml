@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
-    - text: "Poetry"
-      href: poetry.html
+    - text: "Publications"
+      href: publications.html
     - text: "Contact"
       href: contact.html

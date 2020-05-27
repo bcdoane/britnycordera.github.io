@@ -1,8 +1,8 @@
 ---
 title: "Online & Print (Selected):"
 ---
+<BR CLEAR= "left">
 
-  
 concis -  “Transformation” 
 
 Peacock Journal - four poems 
@@ -22,3 +22,5 @@ Prairie Margins - “Ivy Barer”
 Pinyon Review - “The Sensualist”
 
 Pinyon Review - “The Reborn”
+
+</BR>
