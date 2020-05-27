@@ -9,3 +9,5 @@ navbar:
       href: about.html
     - text: "Poetry"
       href: poetry.html
+    - text: "Contact"
+      href: contact.html
